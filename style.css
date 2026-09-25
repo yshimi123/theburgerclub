@@ -200,6 +200,13 @@ ul,li, a {
   }
 }
 
+@media (max-width: 500px) {
+  .main-title {
+    width: 40%;
+  }
+}
+
+
 
 /* --- OUR BURGER --------- */
 .our-burger {
