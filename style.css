@@ -97,6 +97,11 @@ ul,li, a {
   z-index: 100;
 }
 
+.logo a {
+  display: flex;
+  align-items: center;
+}
+
 .header img {
   width: 20%;
 }
