@@ -202,7 +202,7 @@ ul,li, a {
 
 @media (max-width: 500px) {
   .main-title {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
   }
 
